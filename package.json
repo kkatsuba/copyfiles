@@ -1,6 +1,6 @@
 {
-  "name": "copyfiles",
-  "version": "1.2.0",
+  "name": "copyfiles-cli",
+  "version": "0.1.0",
   "description": "copy some files",
   "main": "index.js",
   "bin": {
